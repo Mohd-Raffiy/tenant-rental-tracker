@@ -1,12 +1,29 @@
-# React + Vite
+# 🏠 Tenant Rental Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web app that helps landlords manage tenants, track rental due dates, and mark payments with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- ➕ Add, edit, and delete tenants
+- 📅 Track rent due dates automatically
+- ✅ Mark rent as paid (resets the cycle)
+- 🔎 Search and filter tenants by status (On time, Upcoming, Due soon, Delayed)
+- 💾 Data persistence using **LocalStorage**
+- 🎨 Modern UI with **Glassmorphism cards**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React.js** (Frontend framework)
+- **JavaScript (ES6+)**
+- **CSS3** (Glassmorphism + responsive design)
+- **LocalStorage** (Data persistence)
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repo:
+```bash
+git clone https://github.com/YOUR_USERNAME/tenant-rental-tracker.git
