@@ -26,4 +26,4 @@ A React-based web app that helps landlords manage tenants, track rental due date
 
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/tenant-rental-tracker.git
+git clone https://github.com/Mohd-Raffiy/tenant-rental-tracker.git
